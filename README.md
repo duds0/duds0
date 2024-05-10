@@ -11,7 +11,9 @@
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=html,css,ts,tailwind,kali,figma"/>
 <a/>
-
+  
+<p/>
+  
 🚀 With expertise in Javascript, React, Tailwind, Dart, Flutter and Firebase, I build complete and robust web and mobile applications, from design to implementation. I use Figma to create intuitive and attractive interfaces. With technologies such as React, Flutter and Tailwind I develop dynamic and responsive interfaces. Firebase adds powerful features like user authentication and real-time storage. 
 
 #### 🧠 I'm ready to turn your ideas into digital reality!
