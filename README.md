@@ -3,13 +3,13 @@
 💻 Technology enthusiast with skills in web and mobile development. My interest is not limited to just code, but also user experience, with extensive knowledge in UI/UX and expertise when using Figma.
 
 #### ⚡Main Stacks:
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,react,next,dart,flutter,firebase"/>
+<a href="http://skillicons.dev">
+<img src="http://skillicons.dev/icons?i=js,react,next,dart,flutter,firebase"/>
 <a/>
   
 #### 🧩 Extras:
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,ts,tailwind,kali,figma"/>
+<a href="http://skillicons.dev">
+<img src="http://skillicons.dev/icons?i=html,css,ts,tailwind,kali,figma"/>
 <a/>
   
 <p/>
